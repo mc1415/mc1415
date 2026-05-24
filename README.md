@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mc1415</h1>
+<h1 align="center">Hi 👋, I'm MengChhorng</h1>
 
 <h3 align="center">
   Senior High School Student | Web Development Learner | Building with React & JavaScript
