@@ -61,7 +61,12 @@ Right now, I'm focused on improving my frontend skills, building better projects
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mc1415&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mc1415&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mc1415&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mc1415&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
